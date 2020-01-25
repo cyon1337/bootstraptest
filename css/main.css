@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:700&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+#p1{
+    font-size: 70px;
+    font-family: 'Nunito', sans-serif;
+    margin-top: 60px;
+}
+#p2{
+    font-size: 50px;
+    margin-top: 90px;
+}
+#p3{
+    font-size: 60px;
+}
+.btn-light{
+    font-size: 20px;
+}
+#btn1{
+    margin-top: 10px;
+}
+#btn2{
+    float: right;
+    margin-top: 10px;
+}
